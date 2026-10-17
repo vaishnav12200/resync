@@ -1,0 +1,11 @@
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/bin/Debug/net10.0/ReSync.Core.deps.json
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/bin/Debug/net10.0/ReSync.Core.dll
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/bin/Debug/net10.0/ReSync.Core.pdb
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.AssemblyInfoInputs.cache
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.AssemblyInfo.cs
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.csproj.CoreCompileInputs.cache
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.dll
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/refint/ReSync.Core.dll
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ReSync.Core.pdb
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Core/obj/Debug/net10.0/ref/ReSync.Core.dll
