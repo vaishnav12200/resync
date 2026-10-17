@@ -13,3 +13,4 @@
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Storage/obj/Debug/net10.0/refint/ReSync.Storage.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Storage/obj/Debug/net10.0/ReSync.Storage.pdb
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Storage/obj/Debug/net10.0/ref/ReSync.Storage.dll
+/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Storage/obj/Debug/net10.0/ReSync.Storage.sourcelink.json
