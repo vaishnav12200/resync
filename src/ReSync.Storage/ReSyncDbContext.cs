@@ -3,19 +3,22 @@ using ReSync.Core;
 
 namespace ReSync.Storage;
 
-public class ReSyncDbContext : DbContext
+public sealed class ReSyncDbContext : DbContext
 {
-    public ReSyncDbContext(DbContextOptions<ReSyncDbContext> options) : base(options) { }
+    public ReSyncDbContext(DbContextOptions<ReSyncDbContext> options)
+        : base(options)
+    {
+    }
 
     public DbSet<DeliveryJob> Jobs => Set<DeliveryJob>();
 
-    protected override void OnModelCreating(ModelBuilder b)
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        b.Entity<DeliveryJob>(e =>
+        modelBuilder.Entity<DeliveryJob>(entity =>
         {
-            e.HasKey(j => j.Id);
-            e.HasIndex(j => new { j.ApplicationId, j.RequestId }).IsUnique();
-            e.Property(j => j.Status).HasConversion<string>();
+            entity.HasKey(job => job.Id);
+            entity.HasIndex(job => new { job.ApplicationId, job.RequestId }).IsUnique();
+            entity.Property(job => job.Status).HasConversion<string>();
         });
     }
 }

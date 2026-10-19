@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ReSync.Core\ReSync.Core.csproj" />
     <ProjectReference Include="..\ReSync.Storage\ReSync.Storage.csproj" />
   </ItemGroup>
