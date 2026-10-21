@@ -8,23 +8,11 @@
     ".NETCoreApp,Version=v10.0": {
       "ReSync.Agent/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": "10.0.12",
           "ReSync.Core": "1.0.0",
           "ReSync.Storage": "1.0.0"
         },
         "runtime": {
           "ReSync.Agent.dll": {}
-        }
-      },
-      "Microsoft.AspNetCore.OpenApi/10.0.12": {
-        "dependencies": {
-          "Microsoft.OpenApi": "2.12.0"
-        },
-        "runtime": {
-          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
-            "assemblyVersion": "10.0.12.0",
-            "fileVersion": "10.0.1226.42308"
-          }
         }
       },
       "Microsoft.Data.Sqlite.Core/10.0.13": {
@@ -95,14 +83,6 @@
           "lib/net10.0/Microsoft.Extensions.DependencyModel.dll": {
             "assemblyVersion": "10.0.0.13",
             "fileVersion": "10.0.1326.50504"
-          }
-        }
-      },
-      "Microsoft.OpenApi/2.12.0": {
-        "runtime": {
-          "lib/net8.0/Microsoft.OpenApi.dll": {
-            "assemblyVersion": "2.12.0.0",
-            "fileVersion": "2.12.0.0"
           }
         }
       },
@@ -279,13 +259,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.AspNetCore.OpenApi/10.0.12": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7RnQ/UKn+kK3JDLmTpW+vVqNErWthGPAVAy1aIiBzv4ucQ6g9NFvOJUuT0PHcpvcJxGVxctMxj6t+NESWMrgHQ==",
-      "path": "microsoft.aspnetcore.openapi/10.0.12",
-      "hashPath": "microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512"
-    },
     "Microsoft.Data.Sqlite.Core/10.0.13": {
       "type": "package",
       "serviceable": true,
@@ -334,13 +307,6 @@
       "sha512": "sha512-6TyllZsToy3S/Ziu67GddljRTttuVJ8bbrbVUrsdHqH5678Oax5MpaEubxLoPoWLvgUBYo4KfcAig0mkBtktXQ==",
       "path": "microsoft.extensions.dependencymodel/10.0.13",
       "hashPath": "microsoft.extensions.dependencymodel.10.0.13.nupkg.sha512"
-    },
-    "Microsoft.OpenApi/2.12.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-0xB/be+f6qYOhvQPUrVsLrau+fkowYv6gt9RIkajMhwT7sZnqtcA797yW3bS5kgSje+AQW4xZgyLnW641YFioQ==",
-      "path": "microsoft.openapi/2.12.0",
-      "hashPath": "microsoft.openapi.2.12.0.nupkg.sha512"
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.13": {
       "type": "package",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReSync.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6a00cfc08d252f41fb2a8a6f4531166f58179d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab61a60f2061a981bd135e67ef71eec3a648185")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReSync.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReSync.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

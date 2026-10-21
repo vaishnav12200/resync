@@ -6,14 +6,12 @@
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/ReSync.Agent.runtimeconfig.json
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/ReSync.Agent.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/ReSync.Agent.pdb
-/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
-/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/Microsoft.OpenApi.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/SQLitePCLRaw.core.dll
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
@@ -49,7 +47,6 @@
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/ReSync.Agent.AssemblyInfoInputs.cache
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/ReSync.Agent.AssemblyInfo.cs
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/ReSync.Agent.csproj.CoreCompileInputs.cache
-/home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/ReSync.Agent.MvcApplicationPartsAssemblyInfo.cs
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/ReSync.Agent.MvcApplicationPartsAssemblyInfo.cache
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/vaishnavkm/Projects/projects/ReSync/src/ReSync.Agent/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
