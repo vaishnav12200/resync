@@ -23,4 +23,4 @@ ReSync accepts an HTTP request from a local application, stores it durably, and 
 
 ## Current Status
 
-The domain model, SQLite context, local agent host, and durable job APIs are in place. The background worker, delivery, and retries are planned next.
+The domain model, SQLite context, local agent host, durable job APIs, and background delivery worker are in place. The worker retries temporary failures with bounded exponential backoff and jitter; permanent failures are marked `Failed`.

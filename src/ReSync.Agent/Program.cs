@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using ReSync.Agent.Delivery;
 using ReSync.Storage;
 using System.Text.Json.Serialization;
 
@@ -9,6 +10,10 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter()));
 builder.Services.AddDbContext<ReSyncDbContext>(o =>
     o.UseSqlite("Data Source=resync.db"));
+builder.Services.Configure<DeliveryWorkerOptions>(
+    builder.Configuration.GetSection(DeliveryWorkerOptions.SectionName));
+builder.Services.AddHttpClient();
+builder.Services.AddHostedService<DeliveryWorker>();
 
 var app = builder.Build();
 

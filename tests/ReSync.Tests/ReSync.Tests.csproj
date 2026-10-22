@@ -14,10 +14,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\ReSync.Agent\ReSync.Agent.csproj" />
     <ProjectReference Include="..\..\src\ReSync.Core\ReSync.Core.csproj" />
     <ProjectReference Include="..\..\src\ReSync.Storage\ReSync.Storage.csproj" />
   </ItemGroup>
